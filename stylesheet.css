@@ -1,0 +1,49 @@
+.flex-container {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero {
+  background-color: #1f2937;
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: extra-bold;
+}
+
+ref.hero {
+    font-size: 18px;
+    color: e5e7eb;
+}
+
+subtext.hero {
+    font-size: 18px;
+    color: e5e7eb;
+}
+
+logo.hero {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button {
+    background-color: #3882f6;
+}
+
+.infoheader {
+    font-size: 36px;
+    font-weight: extra-bold;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.calltoaction {
+    background-color: #3882f6;
+}
